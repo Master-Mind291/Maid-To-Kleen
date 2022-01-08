@@ -18,6 +18,13 @@ git push https://github.com/Master-Mind291/Maid-To-Kleen.git
 
 
 
+For apache2 config : 
+
+https://httpd.apache.org/docs/2.4/vhosts/name-based.html
+
+
+
+
 
 
 
